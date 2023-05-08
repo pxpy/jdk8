@@ -35,7 +35,7 @@
 #endif
 #ifdef __linux__
 #include <unistd.h>
-#include <sys/sysctl.h>
+//#include <sys/sysctl.h>
 #include <sys/utsname.h>
 #include <netinet/ip.h>
 
